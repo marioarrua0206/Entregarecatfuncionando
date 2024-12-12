@@ -1,0 +1,46 @@
+#root {
+  max-width: 1280px;
+  margin: 40;
+  padding: 2rem;
+  text-align: center;
+}
+
+.item-list {
+  display: flex; 
+  flex-direction: row; 
+  gap: 50px; 
+  flex-wrap: wrap; 
+  justify-content: center; 
+  align-items: center; 
+}
+.item {
+  
+  color: #333; /* Color gris oscuro para el texto */
+}
+
+.item img {
+  border-radius: 28px; 
+  color: #333; /* Color gris oscuro para el texto */
+}
+
+a {
+  text-decoration: none;
+  
+}
+
+
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+  
+}
+
+.read-the-docs {
+  color: #888;
+}

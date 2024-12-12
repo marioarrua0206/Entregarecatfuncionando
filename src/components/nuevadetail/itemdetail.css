@@ -1,0 +1,30 @@
+.itemdetail {  
+   
+    height: 600px;
+    width: 30%;
+    margin: 30px;
+    background-color: #dddddd48;
+    border-radius: 15px;
+    align-items: center;
+    text-align: center;
+    font-size: 1rem; 
+    padding: 10px; 
+  }
+  .itemdetail h1{
+    font-size: 2.5rem;
+  }
+
+  
+  .item {
+    width: 400px; 
+    height: auto; 
+    border-radius: 20px; 
+    margin-top: 10px; 
+    margin-bottom: 25px;
+    
+  }
+  
+  a {
+    text-decoration: none;
+    
+  }

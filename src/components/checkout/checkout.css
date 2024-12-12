@@ -1,0 +1,24 @@
+.card {
+    height: auto;
+    width:2fr;
+    background-color: #ffffff;
+    border-radius: 15px;
+    align-items: center;
+    text-align: left;
+    font-size: 1rem; 
+    padding: 10px; 
+  }
+  
+  .card img {
+    width: 2fr; 
+    height: auto; 
+    border-radius: 8px;   
+    margin-bottom: 25px;
+    
+  }
+  
+  a {
+    text-decoration: none;
+    
+  }
+  

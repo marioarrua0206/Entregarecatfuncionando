@@ -1,0 +1,21 @@
+
+
+.badge {
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color: #e80625; /* Color de fondo */
+    color: white; /* Color del texto */
+    font-size: 12px;
+    padding: 2px 6px;
+    border-radius: 200%; /* Forma redondeada */
+    transform: translate(50%, -50%);
+  }
+
+  .cart {
+    position: relative;
+    width: 35px;
+    fill: dimgrey;
+    
+    
+  }

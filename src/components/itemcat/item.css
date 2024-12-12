@@ -1,0 +1,31 @@
+.card {
+  height: 550px;
+  width:420px;
+  background-color: #a9a9a9;
+  border-radius: 15px;
+  align-items: center;
+  text-align: center;
+  font-size: 1rem; 
+  padding: 40px; 
+  margin: 20px;
+}
+.info-card{
+  width: 380px;
+  text-align: center;
+}
+
+.card img {
+  width: 380px; 
+  height: auto; 
+  border-radius: 28px;   
+  margin-bottom: 25px;
+  
+}
+
+a {
+  text-decoration: none;
+  
+}
+
+
+
